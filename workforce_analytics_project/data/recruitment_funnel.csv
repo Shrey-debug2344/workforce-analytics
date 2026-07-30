@@ -1,0 +1,43 @@
+quarter,dept_id,dept_name,applied,screened,interviewed,offered,hired
+2025-Q1,1,Engineering,351,175,87,37,25
+2025-Q1,2,Sales,212,84,34,14,11
+2025-Q1,3,Human Capital,219,97,47,18,13
+2025-Q1,4,Finance,458,237,113,45,29
+2025-Q1,5,Operations,134,70,31,13,8
+2025-Q1,6,Marketing,343,140,62,26,17
+2025-Q1,7,Data & Analytics,157,83,47,22,14
+2025-Q2,1,Engineering,308,141,70,25,20
+2025-Q2,2,Sales,267,146,79,34,27
+2025-Q2,3,Human Capital,154,78,32,12,9
+2025-Q2,4,Finance,388,194,109,44,38
+2025-Q2,5,Operations,102,55,32,13,10
+2025-Q2,6,Marketing,125,54,23,8,6
+2025-Q2,7,Data & Analytics,290,121,50,22,17
+2025-Q3,1,Engineering,388,166,94,40,27
+2025-Q3,2,Sales,300,144,83,28,21
+2025-Q3,3,Human Capital,160,60,32,10,7
+2025-Q3,4,Finance,225,79,33,16,11
+2025-Q3,5,Operations,422,148,74,29,23
+2025-Q3,6,Marketing,486,226,104,39,29
+2025-Q3,7,Data & Analytics,351,135,65,25,19
+2025-Q4,1,Engineering,115,61,24,7,5
+2025-Q4,2,Sales,315,150,84,29,22
+2025-Q4,3,Human Capital,479,183,105,45,33
+2025-Q4,4,Finance,344,168,79,26,20
+2025-Q4,5,Operations,432,180,77,32,26
+2025-Q4,6,Marketing,326,147,79,28,22
+2025-Q4,7,Data & Analytics,498,223,125,58,48
+2026-Q1,1,Engineering,197,97,43,14,11
+2026-Q1,2,Sales,284,102,42,19,16
+2026-Q1,3,Human Capital,496,216,122,54,42
+2026-Q1,4,Finance,163,70,32,10,7
+2026-Q1,5,Operations,490,222,96,44,30
+2026-Q1,6,Marketing,130,57,24,9,6
+2026-Q1,7,Data & Analytics,319,165,98,41,34
+2026-Q2,1,Engineering,202,106,62,25,20
+2026-Q2,2,Sales,426,186,103,41,31
+2026-Q2,3,Human Capital,325,156,89,39,27
+2026-Q2,4,Finance,451,203,116,35,28
+2026-Q2,5,Operations,425,205,96,34,27
+2026-Q2,6,Marketing,405,220,109,50,42
+2026-Q2,7,Data & Analytics,331,148,68,26,22

@@ -1,0 +1,8 @@
+dept_name,quarter,applied,screened,interviewed,offered,hired,pct_applied_to_screened,pct_screened_to_interview,pct_interview_to_offer,pct_offer_to_hire,overall_conversion_pct
+Marketing,2026-Q2,405,220,109,50,42,54.3,49.5,45.9,84.0,10.4
+Engineering,2026-Q2,202,106,62,25,20,52.5,58.5,40.3,80.0,9.9
+Human Capital,2026-Q2,325,156,89,39,27,48.0,57.1,43.8,69.2,8.3
+Sales,2026-Q2,426,186,103,41,31,43.7,55.4,39.8,75.6,7.3
+Data & Analytics,2026-Q2,331,148,68,26,22,44.7,45.9,38.2,84.6,6.6
+Operations,2026-Q2,425,205,96,34,27,48.2,46.8,35.4,79.4,6.4
+Finance,2026-Q2,451,203,116,35,28,45.0,57.1,30.2,80.0,6.2

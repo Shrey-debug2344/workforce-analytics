@@ -1,0 +1,51 @@
+employee_id,level,tenure_years,engagement_score,performance_rating,manager_changes_last_2yrs,annual_salary_inr,attrition_risk_pct,dept_name
+E11092,Senior Manager,2.3,2.05,4,4,3262000,87.2,Finance
+E11216,Senior Associate,0.5,3.1,1,3,1767000,86.8,Engineering
+E10834,Associate,0.7,3.7,3,4,1047000,86.2,Sales
+E11089,Associate,2.0,3.16,3,4,930000,85.0,Engineering
+E10736,Manager,0.5,2.7,3,3,2457000,84.3,Sales
+E11832,Associate,3.7,3.75,4,5,1015000,84.1,Finance
+E11043,VP,0.1,1.86,4,2,7860000,83.6,Finance
+E12186,Associate,1.9,4.2,3,4,1116000,82.3,Marketing
+E10497,Associate,3.2,2.75,4,4,1018000,81.7,Engineering
+E10693,Manager,1.1,4.49,4,4,1960000,81.7,Engineering
+E11348,Associate,3.3,2.79,4,4,951000,81.1,Data & Analytics
+E10234,Senior Associate,0.6,3.44,3,3,1528000,81.1,Engineering
+E10901,VP,1.5,3.77,4,3,6772000,80.2,Engineering
+E11910,Analyst,0.4,3.01,1,2,631000,79.9,Engineering
+E11095,Analyst,1.0,4.18,2,3,860000,79.6,Engineering
+E10257,Senior Manager,1.1,2.49,2,2,2970000,79.5,Operations
+E11147,Associate,0.0,3.59,4,3,1111000,79.1,Operations
+E11450,Associate,2.1,3.55,2,3,971000,79.0,Sales
+E10989,Senior Associate,0.8,4.09,3,3,1628000,78.4,Marketing
+E10590,Analyst,0.5,3.35,1,2,781000,78.4,Engineering
+E10320,Senior Manager,1.3,2.82,2,2,3448000,78.2,Human Capital
+E11178,Manager,2.6,3.17,3,3,2476000,77.9,Operations
+E10100,Manager,0.0,2.74,3,2,2021000,77.8,Engineering
+E10903,Associate,1.0,2.52,5,3,989000,77.8,Finance
+E11314,VP,1.1,3.16,3,2,6197000,77.6,Sales
+E11154,Analyst,0.2,3.87,1,2,762000,77.4,Finance
+E10674,Senior Associate,0.0,2.15,1,1,1800000,77.0,Sales
+E11887,Senior Associate,1.5,2.74,5,3,1609000,76.2,Engineering
+E11873,Associate,0.2,2.79,3,2,1185000,76.2,Marketing
+E12313,Manager,0.7,4.24,4,3,2480000,76.2,Operations
+E11704,Associate,0.3,3.43,2,2,1024000,76.1,Sales
+E10314,Analyst,1.1,4.2,3,3,702000,76.1,Marketing
+E11814,Senior Associate,0.4,2.86,3,2,1725000,76.1,Engineering
+E11321,Manager,0.4,2.36,4,2,2608000,76.1,Engineering
+E12386,Senior Manager,3.1,4.42,5,4,3436000,75.6,Sales
+E11101,Manager,2.7,3.61,3,3,1958000,75.5,Data & Analytics
+E10019,Associate,0.8,4.03,1,2,923000,75.2,Engineering
+E11013,Associate,1.1,3.93,4,3,1015000,74.7,Engineering
+E10762,Associate,1.0,2.63,3,2,1222000,74.6,Engineering
+E10842,Senior Associate,1.3,3.34,2,2,1793000,74.3,Engineering
+E10533,Senior Associate,1.2,2.69,3,2,1591000,74.2,Finance
+E11510,Analyst,1.5,3.71,1,2,790000,74.1,Marketing
+E11460,Manager,0.4,1.35,3,1,2508000,74.1,Sales
+E11672,Senior Associate,3.6,3.25,3,3,1671000,74.1,Marketing
+E12282,Director,1.9,3.05,3,2,4708000,74.0,Sales
+E12087,Associate,1.5,2.39,3,2,1026000,74.0,Operations
+E11093,Senior Manager,0.7,2.78,1,1,3118000,73.9,Human Capital
+E12169,Senior Manager,2.2,3.37,2,2,3541000,73.7,Engineering
+E10035,Associate,0.3,3.3,3,2,1006000,73.7,Marketing
+E11683,Manager,0.0,3.21,4,2,2593000,73.6,Marketing
